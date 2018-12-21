@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B79A1</color>
+    <color name="colorPrimaryDark">#283E51</color>
+    <color name="colorAccent">#E62E86C1</color>
+    <color name="saydammavi">#E62E86C1</color>
+    <color name="saydamsiyah">#E6000000</color>
+    <color name="beyaz">#F0F3F4</color>
+</resources>

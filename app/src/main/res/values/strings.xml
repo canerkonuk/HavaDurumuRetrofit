@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HavaDurumuRetrofit</string>
+    <string name="appwidget_text">Hava Durumu</string>
+    <string name="add_widget">HavaDurumuRetrofitWidget</string>
+</resources>
