@@ -44,8 +44,8 @@ public class MainActivity extends AppCompatActivity {
     SwipeRefreshLayout swipeRefreshLayout;
 
 
-    private final int REQUEST_ACCESS_FINE = 1000;
-    private static final String OPENWEATHER_API_KEY = "168cc41d9ed742b76b64f121e345d37a";
+    private final int REQUEST_ACCESS_FINE = 1;
+    private static final String OPENWEATHER_API_KEY = "API_KEYIN_BULUNDUGU_YER";
     RetrofitInterface openweatherretrointerface;
 
 
